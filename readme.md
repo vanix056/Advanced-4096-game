@@ -73,13 +73,12 @@ The AI uses a Minimax algorithm with Alpha-Beta pruning to make decisions. The e
 
 ## Contributors
 
-- Alyan Ahmed Memon (469355)
-- Aakash (471368)
-- Muhammad Abdullah Waqar (458785)
-- Muhammad Shahzil Asif (481491)
+- Alyan Ahmed Memon 
+- Aakash 
+- Muhammad Abdullah Waqar 
+
 
 ## Course Information
 
 - Course: Artificial Intelligence
-- Section: BSCS-13B
 - Date: December 2024
